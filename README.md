@@ -8,13 +8,11 @@ This is a simple app inspired by reading an article online
 ### Installing
 
 ```
-bash
 git clone git@github.com:praveenmahasena/quiz.git
 ```
 
 ### Start
 ```
-bash
 cd quiz
 make quiz
 ./bin/quiz
